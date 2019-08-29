@@ -1,5 +1,5 @@
 {
-  "name": "curry",
+  "name": "@lpvua/curry",
   "version": "1.0.0",
   "main": "dist/main.cjs.js",
   "module": "dist/main.esm.js",
