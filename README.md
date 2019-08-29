@@ -1,6 +1,25 @@
-## curry
+curry
+=
 
 Tiny function which returns curried equivalent of provided function
+
+## Installation
+```bash
+$ npm install bottlejs
+```
+Or add it into HTML
+```HTML
+  <script type="text/javascript" src="https://unpkg.com/@lpvua/curry"></script>
+```
+API
+=
+
+curry(fn, arity)
+-
+Creates curried function
+### Properties
+ - `fn` - Function to curry
+ - `arity` - (optional) arity number. Is needed when provided function has any number of arguments
 
 ## example
 
