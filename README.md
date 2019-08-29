@@ -1,8 +1,8 @@
-#curry
+## curry
 
 Tiny function which returns curried equivalent of provided function
 
-#example
+## example
 
 ```javascript
   import curry from '@lpvua/curry'
