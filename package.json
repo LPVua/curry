@@ -1,6 +1,6 @@
 {
   "name": "@lpvua/curry",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "main": "dist/main.cjs.js",
   "module": "dist/main.esm.js",
   "browser": "dist/main.umd.js",
