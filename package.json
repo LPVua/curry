@@ -23,5 +23,27 @@
   "dependencies": {
     "@babel/core": "^7.5.5",
     "rollup-plugin-babel": "^4.3.3"
-  }
+  },
+  "description": "Tiny function which returns curried equivalent of provided function",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LPVua/curry.git"
+  },
+  "keywords": [
+    "FP",
+    "curry",
+    "Functional",
+    "Programming",
+    "Tiny",
+    "Small"
+  ],
+  "author": "Pavlo Lompas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LPVua/curry/issues"
+  },
+  "homepage": "https://github.com/LPVua/curry#readme"
 }
