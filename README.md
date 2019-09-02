@@ -5,7 +5,7 @@ Tiny function which returns curried equivalent of provided function
 
 ## Installation
 ```bash
-$ npm install bottlejs
+$ npm install @lpvua/curry
 ```
 Or add it into HTML
 ```HTML
